@@ -1,2 +1,2 @@
  alert('qwer');
-console.log('text');
+//  console.log('text');
